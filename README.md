@@ -1,4 +1,4 @@
-# rgb-linux
+# RGB Linux
 
 A simple RGB fan controller for MSi motherboards in Linux machines. This script will make RGB devices connected to your mobo's RGB header(s) have a rainbow gradient fading effect.
 
